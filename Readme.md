@@ -1,6 +1,5 @@
 # Namma Yatri-Analytics-Dashboard
 
-Interactive Dashboard Link -> https://public.tableau.com/app/profile/ayan.basak8085/viz/NammaYatriDashboard/RidesSummary
 
 >Namma Yatri is an open network mobility application built with the idea to provide multi-modal service to the commuters without the involvement of any middlemen. This application is built on the common network standards defined by ONDC built on the Beckn protocol (open source). The common network standards allows for interoperability for any buyer app compliant with the network standards to offer rides.
 >
