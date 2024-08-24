@@ -27,29 +27,24 @@ Some of their application features which I noticed were:
 ## My Work
 
 - I analysed the data they have shown on their website as well as their app and created a small dataset for a single day. The dataset can be found in the follwoing SQL report:
-  >SQL Report Link -> https://github.com/Ayan-OP/Namma-Yatri/blob/main/SQL%20Files/Data_Entry.sql
+  >SQL Report Link -> https://github.com/ayush8980/Ridesharing_Analysis/blob/main/SQL%20Files/Data_Entry.sql
 - I created the database on MySQL and defined a schema structure to explain how the company might receive and collect data for each customer and driver through their app.
 
-![Database_Schema](https://github.com/Ayan-OP/Namma-Yatri/blob/main/Imp%20images/Database_schema.png)
+![Database_Schema](https://github.com/ayush8980/Ridesharing_Analysis/blob/main/Imp%20images/Database_schema.png)
 
 - I analysed the data collected and extracted various KPIs and trends in the data. The analysis can be found in the following SQL report:
-  >SQL Report Link -> https://github.com/Ayan-OP/Namma-Yatri/blob/main/SQL%20Files/Data_Exploration.sql
-- Finally I created an interactive and dynamic Tableau Dashboard based on the data I analyzed and tried to replicate similar to what they have shown on their website.
+  >SQL Report Link -> https://github.com/ayush8980/Ridesharing_Analysis/blob/main/SQL%20Files/Data_Exploration.sql
+- Finally I created an interactive and dynamic PowerBI Dashboard based on the data I analyzed and tried to replicate similar to what they have shown on their website.
 
 
 ## Overall Analytics Report
 
-![Analyst_Report](https://github.com/Ayan-OP/Namma-Yatri/blob/main/Imp%20images/%231.png)
-
-
-## Trip Details Report
-
-![Employee_Details](https://github.com/Ayan-OP/Namma-Yatri/blob/main/Imp%20images/%232.png)
+![Analyst_Report](https://github.com/ayush8980/Ridesharing_Analysis/blob/main/Imp%20images/%231.png)
 
 
 ## Data Model
 
-![Data_Model](https://github.com/Ayan-OP/Namma-Yatri/blob/main/Imp%20images/%233.png)
+![Data_Model](https://github.com/ayush8980/Ridesharing_Analysis/blob/main/Imp%20images/%232.png)
 
 
 ## License
