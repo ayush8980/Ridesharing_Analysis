@@ -1,5 +1,6 @@
 # Namma Yatri-Analytics-Dashboard
 
+Interactive Dashboard Link -> https://app.powerbi.com/groups/me/reports/79ded402-d3c0-4e1d-8564-bf207b65701b/a8d8c2c3032c8ede937c?experience=power-bi
 
 >Namma Yatri is an open network mobility application built with the idea to provide multi-modal service to the commuters without the involvement of any middlemen. This application is built on the common network standards defined by ONDC built on the Beckn protocol (open source). The common network standards allows for interoperability for any buyer app compliant with the network standards to offer rides.
 >
